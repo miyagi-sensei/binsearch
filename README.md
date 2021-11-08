@@ -1,6 +1,6 @@
 # Binary Search Practice Tooling
-1. `in1.txt` to in6.txt: 6 edge test cases for data sorted in *descending* order
-2. `in1b.txt` to in6b.txt: 6 edge test cases for data sorted in *ascending* order
+1. `in1.txt` to `in6.txt`: 6 edge test cases for data sorted in *descending* order
+2. `in1b.txt` to `in6b.txt`: 6 edge test cases for data sorted in *ascending* order
 3. `brute.cpp`: trivial brute force linear version that you know is correct
 4. `solution.cpp`: write the binary search implementation
 5. `stress.sh`: shell script to test for data sorted in *descending* order
